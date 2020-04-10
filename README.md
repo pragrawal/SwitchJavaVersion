@@ -4,7 +4,7 @@ A lot of times software engineers working on java technologies, need to use diff
 While there are a few tools available online which can help you manage multiple java versions and switch between them, my own experience with them has not been particularly fascinating. So, I tried to come up with something of my own that can help you switch between java version effortlessly.
 Below, you can find the steps describing how to do this. Once you are done with all these steps, any time you want to use a particular java version, just execute `usejava <java-version>` e.g. `usejava 11` as illustrated below.
 
-Step 1: Install all the java versions that you want to use.
+Step 1: Install all the java versions that you want to use. If you already have them, please go to the next step.
 
 Step 2: Place [usejava.sh](https://github.com/pragrawal/SwitchJavaVersion/blob/master/usejava.sh) in some directory (e.g. your home directory)
 
