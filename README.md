@@ -11,8 +11,9 @@ Step 2: Place [usejava.sh](https://github.com/pragrawal/SwitchJavaVersion/blob/m
 Step 3: Add this to your bash_profile – 
 ```
 alias usejava='. <directory-path>/usejava.sh'
-e.g. alias usejava='. ~/usejava.sh'
 ```
+e.g. 
+`alias usejava='. ~/usejava.sh'`
 Please make a note of the preceding dot (.) and a space before the directory-path. You need to use it exactly the same way.
 
 Step 4: Add execute permission to your script using the chmod command e.g.
